@@ -1,3 +1,5 @@
+直接看中文版教程
+https://www.bilibili.com/read/cv22589352
 # GPT-4 & LangChain - Create a ChatGPT Chatbot for Your PDF Docs
 
 Use the new GPT-4 api to build a chatGPT chatbot for Large PDF docs (56 pages used in this example).
